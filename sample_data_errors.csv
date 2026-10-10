@@ -1,0 +1,3 @@
+line_number,null_columns,id,name,email,age
+3,email,2,Bob,,25
+4,name;age,3,,carol@example.com,NULL
